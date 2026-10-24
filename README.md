@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sam
 
-<!--
-**Sam-MedAI/Sam-MedAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a surgeon (MD) learning and building AI for medicine.
+I combine clinical experience with deep learning in PyTorch.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Clinical risk prediction from tabular data (in progress)
+- Medical NLP and imaging projects (planned)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python · PyTorch · scikit-learn · NumPy · Pandas
+
+## Contact
+https://www.linkedin.com/in/saman-tabesh-77b947b3/?
